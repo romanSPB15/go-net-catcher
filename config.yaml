@@ -1,0 +1,2 @@
+capture-device: "\\Device\\NPF_{E70AF39A-0508-4D3F-B90F-0E53623F6613}"
+packet-type: TCP
